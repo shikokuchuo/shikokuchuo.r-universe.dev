@@ -10,13 +10,14 @@
     {
         "package": "mirai",
         "url": "https://github.com/shikokuchuo/mirai"
-    }
+    },
     {
         "package": "mirai.promises",
         "url": "https://github.com/shikokuchuo/mirai.promises"
-    }
+    },
     {
         "package": "secretbase",
         "url": "https://github.com/shikokuchuo/secretbase"
     }
 ]
+
