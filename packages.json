@@ -1,23 +1,28 @@
 [
     {
         "package": "ichimoku",
-        "url": "https://github.com/shikokuchuo/ichimoku"
+        "url": "https://github.com/shikokuchuo/ichimoku",
+        "branch": "*release"
     },
     {
         "package": "nanonext",
-        "url": "https://github.com/shikokuchuo/nanonext"
+        "url": "https://github.com/shikokuchuo/nanonext",
+        "branch": "*release"
     },
     {
         "package": "mirai",
-        "url": "https://github.com/shikokuchuo/mirai"
+        "url": "https://github.com/shikokuchuo/mirai",
+        "branch": "*release"
     },
     {
         "package": "mirai.promises",
-        "url": "https://github.com/shikokuchuo/mirai.promises"
+        "url": "https://github.com/shikokuchuo/mirai.promises",
+        "branch": "*release"
     },
     {
         "package": "secretbase",
-        "url": "https://github.com/shikokuchuo/secretbase"
+        "url": "https://github.com/shikokuchuo/secretbase",
+        "branch": "*release"
     }
 ]
 
