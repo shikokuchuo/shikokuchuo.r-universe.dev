@@ -18,6 +18,10 @@
     {
         "package": "fireworks",
         "url": "https://github.com/shikokuchuo/fireworks"
+    },
+    {
+        "package": "sakura",
+        "url": "https://github.com/shikokuchuo/sakura"
     }
 ]
 
