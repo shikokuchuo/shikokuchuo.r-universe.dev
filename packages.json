@@ -22,6 +22,10 @@
     {
         "package": "sakura",
         "url": "https://github.com/shikokuchuo/sakura"
+    },
+    {
+        "package": "watcher",
+        "url": "https://github.com/shikokuchuo/watcher"
     }
 ]
 
