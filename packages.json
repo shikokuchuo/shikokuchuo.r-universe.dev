@@ -4,23 +4,11 @@
         "url": "https://github.com/shikokuchuo/ichimoku"
     },
     {
-        "package": "nanonext",
-        "url": "https://github.com/shikokuchuo/nanonext"
-    },
-    {
-        "package": "mirai",
-        "url": "https://github.com/shikokuchuo/mirai"
-    },
-    {
         "package": "secretbase",
         "url": "https://github.com/shikokuchuo/secretbase"
     },
     {
         "package": "sakura",
         "url": "https://github.com/shikokuchuo/sakura"
-    },
-    {
-        "package": "watcher",
-        "url": "https://github.com/shikokuchuo/watcher"
     }
 ]
