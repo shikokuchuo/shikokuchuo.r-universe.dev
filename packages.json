@@ -6,9 +6,5 @@
     {
         "package": "secretbase",
         "url": "https://github.com/shikokuchuo/secretbase"
-    },
-    {
-        "package": "sakura",
-        "url": "https://github.com/shikokuchuo/sakura"
     }
 ]
