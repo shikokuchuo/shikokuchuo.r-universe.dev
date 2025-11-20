@@ -1,5 +1,9 @@
 [
     {
+        "package": "automerge",
+        "url": "https://github.com/shikokuchuo/automerge-r"
+    },
+    {
         "package": "ichimoku",
         "url": "https://github.com/shikokuchuo/ichimoku"
     },
