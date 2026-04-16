@@ -1,14 +1,14 @@
 [
     {
-        "package": "automerge",
-        "url": "https://github.com/shikokuchuo/automerge-r"
-    },
-    {
         "package": "ichimoku",
         "url": "https://github.com/shikokuchuo/ichimoku"
     },
     {
         "package": "secretbase",
         "url": "https://github.com/shikokuchuo/secretbase"
+    },
+    {
+        "package": "sora",
+        "url": "https://github.com/shikokuchuo/sora"
     }
 ]
